@@ -15,9 +15,9 @@ background-color: var(--white);
     font-family: "Raleway",sans-serif;
  color: var(--navy-blue);
  text-decoration: none;
-
+ font-weight: 800;
 }
-.logo .logo-web{
+.logo-web{
  
 
  font-family: "Raleway",sans-serif;
