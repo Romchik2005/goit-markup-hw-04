@@ -5,7 +5,23 @@
     width: 360;
     height: 300;
 }
-h3 {
+body{
 
-    color: red;
+font-family: "";
+}
+
+:root{
+ --navy-blue: #2E2F42;
+ --iris: #4D5AE5;
+ --navyblue-modal: #2E2F42; 
+ --grey: #2E2F42;
+ --white: #ffffff;
+ --dairy: #FCFCFC;
+ --ocean: #404BBF;
+ --cloud: #F4F4FD; 
+ --cornflower: #E7E9FC;
+ --green: #31D0AA;
+ --slate: #434455;
+ --lightslate: #8E8F99;
+ 
 }
