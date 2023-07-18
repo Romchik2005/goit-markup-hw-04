@@ -14,6 +14,7 @@ background-color: var(--white);
 .logo{
     font-family: "Raleway",sans-serif;
  color: var(--navy-blue);
+ text-decoration: none;
 
 }
 .logo .logo-web{
