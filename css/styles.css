@@ -7,9 +7,22 @@
 }
 body{
 
-font-family: "";
+font-family: "Roboto",  sans-serif;
+color: var(--slate);
+background-color: var(--white);
+}
+.logo-web{
+ font-weight: 800;
+ font-family: "Raleway";
+ color: var(--iris);
 }
 
+.logo-studio{
+
+    font-weight: 800;
+ font-family: "Raleway";
+ color: var(--navy-blue);
+}
 :root{
  --navy-blue: #2E2F42;
  --iris: #4D5AE5;
