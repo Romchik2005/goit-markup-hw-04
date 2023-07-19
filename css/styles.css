@@ -85,6 +85,21 @@ background-color: var(--white);
     background-color: var(--ocean);
     cursor: pointer;
 }
+.second-title-h2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue);
+}
+.paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+}
+.section4{
+    color: var(--cloud);
+}
 .footer{
     background-color: var(--navy-blue);
 }
