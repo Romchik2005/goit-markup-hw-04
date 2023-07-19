@@ -51,6 +51,7 @@ background-color: var(--white);
 .address{
 
     font-style: normal;
+
 }
 .post-tel{
     line-height: 1.5;
@@ -83,6 +84,9 @@ background-color: var(--white);
 .button-order:hover, .button-order:focus{
     background-color: var(--ocean);
     cursor: pointer;
+}
+.footer{
+    background-color: var(--navy-blue);
 }
 :root{
  --navy-blue: #2E2F42;
