@@ -50,7 +50,7 @@ background-color: var(--white);
 .post-tel{
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--slate);
+    color: var(--navy-blue);
 }
 
 .section1{
@@ -84,6 +84,13 @@ background-color: var(--white);
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--navy-blue);
+}
+.third-title-h3{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
     color: var(--navy-blue);
 }
 .paragraph{
