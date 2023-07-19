@@ -83,7 +83,7 @@ background-color: var(--white);
     background-color: var(--ocean);
     cursor: pointer;
 }
-.second-title-h2{
+.second-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
