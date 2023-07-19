@@ -90,6 +90,11 @@ background-color: var(--white);
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
+.first-point{
+
+    background-color: #FFFFFF 
+}
+
 .sub-titles{
     font-weight: 500;
     font-size: 20px;
