@@ -96,6 +96,7 @@ background-color: var(--white);
 .third-title-h3{
     font-size: 36px;
     line-height: 1.11;
+    letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
     color: var(--navy-blue);
@@ -106,7 +107,8 @@ background-color: var(--white);
 
 }
 .section4{
-    color: var(--cloud);
+ 
+    background-color: var(--cloud);
 }
 .footer{
     background-color: var(--navy-blue);
@@ -146,5 +148,5 @@ background-color: var(--white);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
-    
+
 }
