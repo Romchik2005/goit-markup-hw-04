@@ -14,12 +14,16 @@ background-color: var(--white);
 .logo{
     font-family: "Raleway",sans-serif;
  color: var(--iris);
- text-decoration: none;
+ 
  font-weight: 800;
  font-size: 18px;
  line-height: 1.17 ;
  letter-spacing: 0.03em;
  text-transform: uppercase
+}
+.link{
+
+    text-decoration: none;
 }
 .logo-studio{
  
@@ -27,8 +31,36 @@ background-color: var(--white);
  font-family: "Raleway",sans-serif;
  color: var(--navy-blue);
 }
+.list{
 
+  list-style: none;
+}
+.section1{
 
+    background-color: var(--navy-blue);
+
+}
+.first-title-h1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--white);
+}
+.button-order{
+    background-color: var(--iris);
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--white);
+
+}
+.button-order:hover, .button-order:focus{
+    background-color: var(--ocean);
+    cursor: pointer;
+}
 :root{
  --navy-blue: #2E2F42;
  --iris: #4D5AE5;
