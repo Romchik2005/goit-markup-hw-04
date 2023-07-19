@@ -25,6 +25,9 @@ background-color: var(--white);
 
     text-decoration: none;
 }
+.link:hover, .link:focus{
+    color: var(--ocean);
+}
 .logo-studio{
  
 
@@ -35,6 +38,26 @@ background-color: var(--white);
 
   list-style: none;
 }
+.nav-element{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue);
+    
+}
+.nav-element:hover, .nav-element:focus{
+    color: var(--ocean);
+}
+.address{
+
+    font-style: normal;
+}
+.post-tel{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+}
+
 .section1{
 
     background-color: var(--navy-blue);
