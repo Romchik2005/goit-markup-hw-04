@@ -1,10 +1,4 @@
-.header{
-    height: 72px;
-}
-.img-portfolio {
-    width: 360;
-    height: 300;
-}
+
 body{
 
 font-family: "Roboto",  sans-serif;
@@ -95,7 +89,7 @@ background-color: var(--white);
 .paragraph{
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 .section4{
     color: var(--cloud);
