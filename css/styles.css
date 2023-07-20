@@ -124,7 +124,7 @@ margin-right: 76px;
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .list-elements-descriptions{
-  flex-basis: calc((100% - 48px) / 3);
+  flex-basis: calc((100% - 72px) / 4);
 
 }
 .first-title{
