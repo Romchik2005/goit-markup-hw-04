@@ -216,11 +216,17 @@ margin-bottom: 72px;
 }
 .footer{
     background-color: var(--navy-blue);
+    padding: 100px 0;
+}
+.footer-link{
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .footer-paragraph{
     line-height: 1.5;
     color: var(--cloud);
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 :root{
  --navy-blue: #2E2F42;
