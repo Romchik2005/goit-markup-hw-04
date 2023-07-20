@@ -109,9 +109,9 @@ margin-right: 76px;
 .visually-hidden{
     visibility: hidden;
 }
-.list-description{
+.list-descriptions{
     display: flex;
-    gap: 24px;
+    gap: 24px; 
 }
 .list-elements-descriptions{
     width: calc((100% - 72px) / 4);
