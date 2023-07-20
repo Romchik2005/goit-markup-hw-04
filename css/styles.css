@@ -112,6 +112,7 @@ margin-right: 76px;
 .list-descriptions{
     display: flex;
     gap: 24px; 
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .list-elements-descriptions{
     width: calc((100% - 72px) / 4);
