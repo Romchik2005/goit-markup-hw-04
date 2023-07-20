@@ -69,15 +69,24 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
+    padding: 24px 0;
     
 }
 .nav-element:hover, .nav-element:focus{
     color: var(--ocean);
 }
+.nav-list{
+    display: flex;
+    gap: 40px;
+}
 .address{
 
     font-style: normal;
 
+}
+.address-list{
+    display: flex;
+    gap: 40px;
 }
 .post-tel{
     line-height: 1.5;
