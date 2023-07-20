@@ -97,6 +97,7 @@ margin-right: 76px;
 .section{
 
     background-color: var(--navy-blue);
+    padding: 188px 0;
 
 }
 .first-title{
@@ -105,6 +106,7 @@ margin-right: 76px;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white);
+    max-width: 496px;
 }
 .button-order{
     background-color: var(--iris);
@@ -114,6 +116,12 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--white);
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 
 }
 .button-order:hover, .button-order:focus{
