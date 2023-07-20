@@ -100,6 +100,20 @@ margin-right: 76px;
     padding: 188px 0;
 
 }
+.section-descriptions{
+    padding: 120px 0;
+}
+.visually-hidden{
+    overflow: hidden ;
+}
+.list-description{
+    display: flex;
+    gap: 24px;
+}
+.list-elements-descriptions{
+    width: calc((100% - 72px) / 4);
+
+}
 .first-title{
     font-size: 56px;
     line-height: 1.07;
@@ -146,6 +160,7 @@ margin-right: 76px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
+    margin-bottom: 8px;
 }
 .third-title-h3{
     font-size: 36px;
