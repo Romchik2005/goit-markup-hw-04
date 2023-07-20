@@ -107,7 +107,7 @@ margin-right: 76px;
     padding: 120px 0;
 }
 .visually-hidden{
-    visibility: hidden;
+    display: none;
 }
 .list-description{
     display: flex;
