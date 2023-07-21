@@ -6,6 +6,9 @@
 ul {
     padding-left: 0;
 }
+h1,h2,h3,h4,p{
+    margin: 0;
+}
 body{
 
 font-family: "Roboto",  sans-serif;
@@ -69,6 +72,8 @@ margin-right: 76px;
 .list{
 
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .nav-element{
     font-weight: 500;
@@ -76,6 +81,7 @@ margin-right: 76px;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
     padding: 24px 0;
+    display: block;
     
 }
 .nav-element:hover, .nav-element:focus{
@@ -88,6 +94,7 @@ margin-right: 76px;
 .address{
 
     font-style: normal;
+    margin-left: auto;
 
 }
 .address-list{
@@ -98,6 +105,9 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: block;
 }
 
 .section{
@@ -137,6 +147,9 @@ margin-right: 76px;
     letter-spacing: 0.02em;
     color: var(--white);
     max-width: 496px;
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .button-order{
     background-color: var(--iris);
@@ -152,7 +165,8 @@ margin-right: 76px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 .button-order:hover, .button-order:focus{
     background-color: var(--ocean);
@@ -297,7 +311,7 @@ margin-bottom: 72px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
-    text-align: center;
+
 
 }
 .name-category{
