@@ -343,6 +343,9 @@ margin-bottom: 72px;
 }
 .footer-div{
     margin-right: 120px;
+    display: flex;
+    align-items: baseline;
+    
 
 }
 .social-media{
@@ -352,7 +355,7 @@ margin-bottom: 72px;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px; 
-    
+
 }
 .footer-link{
     display: inline-block;
