@@ -117,7 +117,7 @@ margin-right: 76px;
 
 .section{
   
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office1.png);
+    background-image:  linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office1.png);
     background-color: var(--navy-blue);
     padding: 188px 0;
     max-width: 1440px;
@@ -148,6 +148,18 @@ margin-right: 76px;
 }
 .list-elements-descriptions{
   width: calc((100% - 72px) / 4);
+
+}
+.vector-second-section{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 112px;
+background-color: #f4f4fd;
+border-radius: 4px;
+margin-bottom: 8px;
+}
+.vector-pictures-scnd-section{
 
 }
 .first-title{
