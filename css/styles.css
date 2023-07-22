@@ -345,7 +345,7 @@ margin-bottom: 72px;
     margin-right: 120px;
     display: flex;
     align-items: baseline;
-    
+
 
 }
 .social-media{
@@ -366,6 +366,10 @@ margin-bottom: 72px;
     color: var(--cloud);
     letter-spacing: 0.02em;
     max-width: 264px;
+}
+.logo-paragraph-footer{
+    margin-right: 120px;
+    
 }
 :root{
  --navy-blue: #2E2F42;
