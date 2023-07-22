@@ -85,6 +85,8 @@ margin-right: 76px;
     color: var(--navy-blue);
     padding: 24px 0;
     display: block;
+    position: relative;
+    color: #404bbf;
     
 }
 .nav-element:hover, .nav-element:focus{
@@ -114,9 +116,14 @@ margin-right: 76px;
 }
 
 .section{
-
+  
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office1.png);
     background-color: var(--navy-blue);
     padding: 188px 0;
+    max-width: 1440px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 
 }
 .section-descriptions{
