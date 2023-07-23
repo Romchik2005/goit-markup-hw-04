@@ -270,7 +270,7 @@ margin-bottom: 8px;
     justify-content: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
-.icon-list-item-link-footer:hover, .icon-list-item-link-footer:focus{
+.icon-list-item-link-footer:hover, .icon-list-item-link-footer:focus {
     background-color: #31d0aa; 
 }
 
