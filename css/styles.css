@@ -261,14 +261,11 @@ margin-bottom: 8px;
     background-color: #404bbf;
     
 }
-.icon-list-item-link:focus::before {
-    background-color:#4d5ae5;
+.icon-list-item-link:focus{
+    border-color: #404bbf;
+    
 }
 
-.icon-list-item-link:focus::after {
-    background-color: #404bbf;
-
-}
 .icon-list-item-link-footer{
     width: 100%;
     height: 100%;
@@ -372,8 +369,11 @@ margin-bottom: 72px;
    justify-content: center;
    color: #8e8f99;
 }
-.five-section-list-link:hover,
-.five-section-list-link:focus {
+.five-section-list-link:hover {
+    border-color: #404bbf;
+    color: #404bbf;
+}
+.five-section-list-link:focus{
     border-color: #404bbf;
     color: #404bbf;
 }
