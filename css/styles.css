@@ -258,7 +258,7 @@ margin-bottom: 8px;
    
 }
 
-.icon-list-item-link:hover,.icon-list-item-link:focus {
+.icon-list-item-link:hover,{
     background-color: #404bbf;
     
 }
@@ -577,10 +577,10 @@ margin-bottom: 72px;
 .link-portfolio:hover,
 .link-portfolio:focus{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-    
+    transform: translateY(0%);
 
 }
-.link-portfolio:hover .paragraph-portfolio, .link-portfolio:focus .paragraph-portfolio{
+.link-portfolio .paragraph-portfolio:hover, .link-portfolio .paragraph-portfolio:focus{
     transform: translateY(0%);
 }
 .name-category{
