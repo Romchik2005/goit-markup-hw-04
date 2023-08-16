@@ -258,12 +258,12 @@ margin-bottom: 8px;
    
 }
 
-.icon-list-item-link:hover,{
-    background-color: #404bbf;
-    
+.icon-list-item-link:hover{
+    background-color: #404bbf; 
 }
-.icon-list-item-link:focus{
-    border-color: #404bbf;
+
+.icon-list-item-link:focus{ 
+    background-color: #404bbf; 
     
 }
 
