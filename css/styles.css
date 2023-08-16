@@ -258,7 +258,7 @@ margin-bottom: 8px;
    
 }
 
-.icon-list-item-link:hover{
+.icon-list-item-link:hover,.icon-list-item-link:focus{
     background-color: #404bbf;
     
 }
