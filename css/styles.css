@@ -261,7 +261,11 @@ margin-bottom: 8px;
     background-color: #404bbf;
     
 }
-.icon-list-item-link:focus {
+.icon-list-item-link:focus::before {
+    background-color:#4d5ae5;
+}
+
+.icon-list-item-link:focus::after {
     background-color: #404bbf;
 
 }
