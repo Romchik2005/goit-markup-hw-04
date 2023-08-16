@@ -368,7 +368,8 @@ margin-bottom: 72px;
    justify-content: center;
    color: #8e8f99;
 }
-.five-section-list-link:hover, .five-section-list-link:focus::after {
+.five-section-list-link:hover,
+.five-section-list-link:focus {
     border-color: #404bbf;
     color: #404bbf;
 }
@@ -456,7 +457,8 @@ margin-bottom: 72px;
    
 
 }
-.data-modal-close-button:hover, .data-modal-close-button:focus{
+.data-modal-close-button:hover,
+.data-modal-close-button:focus{
     fill: #ffffff;
     background-color: #404bbf;
     border: none;
@@ -465,7 +467,8 @@ margin-bottom: 72px;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 
 }
-.close-button:hover, .close-button:focus{
+.close-button:hover,
+.close-button:focus{
     fill: #ffffff;
 }
 :root{
@@ -500,7 +503,8 @@ margin-bottom: 72px;
     
 }
 
-.button-portfolio:hover, .button-portfolio:focus{
+.button-portfolio:hover,
+.button-portfolio:focus{
     color: var(--white);
     background-color: var(--ocean);
     border: 1px solid transparent;
@@ -517,7 +521,8 @@ margin-bottom: 72px;
     display: block;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.portfolio-propositions-item:hover, .portfolio-propositions-item:focus{
+.portfolio-propositions-item:hover,
+.portfolio-propositions-item:focus{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 
 }
@@ -530,7 +535,8 @@ margin-bottom: 72px;
 
 
 }
-.paragraph-portfolio:hover, .paragraph-portfolio:focus{
+.paragraph-portfolio:hover,
+.paragraph-portfolio:focus{
     transform: translateY(0%);
 
 }
@@ -563,7 +569,8 @@ margin-bottom: 72px;
     display: block;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.link-portfolio:hover, .link-portfolio:focus{
+.link-portfolio:hover,
+.link-portfolio:focus{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
     transform: translateY(0%);
 
